@@ -10,5 +10,5 @@ Remember that some thing could not work, if you have any question contact me at 
 
 The f3d file is WITHOUT ALL the cnc parts, the final file will coming soon 
 
-If you want to suport my effort, you can make a donation at this link ;-)  https://www.paypal.com/donate/?token=BIU0fmmZIYoI-WF5ypq4gG8EPiaTloC1j9BZFvO0Qky993pgan5QWeh3lQEH784ZtnBhAW&country.x=FR&locale.x= 
+If you want to support my effort, you can make a donation at this link ;-)  https://www.paypal.com/donate/?token=BIU0fmmZIYoI-WF5ypq4gG8EPiaTloC1j9BZFvO0Qky993pgan5QWeh3lQEH784ZtnBhAW&country.x=FR&locale.x= 
 

@@ -8,7 +8,8 @@ The link of the google docs with a start of a part list : https://docs.google.co
 
 Remember that some thing could not work, if you have any question contact me at : hadji.yohan@gmail.com 
 
-The f3d file is WITHOUT ALL the cnc parts, the final file will coming soon 
+The V1 f3d file is WITHOUT ALL the cnc parts ! 
+The V2 is with the cnc files, I’m actually in discussion with a Chinese aluminium parts producer to estimate the price of the cnc parts...
 
 If you want to support my effort, you can make a donation at this link ;-)  https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=e.hadji%40laposte.net&currency_code=USD&source=url
 
